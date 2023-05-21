@@ -1,4 +1,4 @@
-# BIke_Rental_System
+# Bike_Rental_System
 
 # Problem Statement
 
